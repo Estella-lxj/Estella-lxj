@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning GraphQL...
 - 📷 Photographer 
 - 🦦 Animal lover
+- 🎬 Movie fan
 - 🍓 Whole foods diet
-- 🎬 Film fan
+
 
 -->
